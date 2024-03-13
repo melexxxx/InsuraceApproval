@@ -1,0 +1,7 @@
+C:\Users\danielmieleniewski\source\repos\InsuraneApproval\InsuraneApproval\bin\Debug\InsuraneApproval.exe.config
+C:\Users\danielmieleniewski\source\repos\InsuraneApproval\InsuraneApproval\bin\Debug\InsuraneApproval.exe
+C:\Users\danielmieleniewski\source\repos\InsuraneApproval\InsuraneApproval\bin\Debug\InsuraneApproval.pdb
+C:\Users\danielmieleniewski\source\repos\InsuraneApproval\InsuraneApproval\obj\Debug\InsuraneApproval.csprojAssemblyReference.cache
+C:\Users\danielmieleniewski\source\repos\InsuraneApproval\InsuraneApproval\obj\Debug\InsuraneApproval.csproj.CoreCompileInputs.cache
+C:\Users\danielmieleniewski\source\repos\InsuraneApproval\InsuraneApproval\obj\Debug\InsuraneApproval.exe
+C:\Users\danielmieleniewski\source\repos\InsuraneApproval\InsuraneApproval\obj\Debug\InsuraneApproval.pdb
